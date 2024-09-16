@@ -1,0 +1,11 @@
+/* src/app/task-list/task-list.component.css */
+h2 {
+    color: #333;
+  }
+  input {
+    margin-right: 10px;
+  }
+  button {
+    margin-left: 10px;
+  }
+  

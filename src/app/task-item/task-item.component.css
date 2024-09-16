@@ -1,0 +1,14 @@
+/* src/app/task-item/task-item.component.css */
+.task-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.long-task {
+  color: red; /* Text color changes to red if the task is long */
+}
+
+button {
+  margin-left: 10px;
+}
